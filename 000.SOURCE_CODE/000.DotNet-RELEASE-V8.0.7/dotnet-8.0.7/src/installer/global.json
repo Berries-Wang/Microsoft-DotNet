@@ -1,0 +1,17 @@
+{
+  "tools": {
+    "dotnet": "8.0.101",
+    "runtimes": {
+      "dotnet": [
+        "$(VSRedistCommonNetCoreSharedFrameworkx6480PackageVersion)"
+      ]
+    }
+  },
+  "native-tools": {
+    "cmake": "3.21.0"
+  },
+  "msbuild-sdks": {
+    "Microsoft.DotNet.Arcade.Sdk": "8.0.0-beta.24266.3",
+    "Microsoft.DotNet.CMake.Sdk": "8.0.0-beta.24266.3"
+  }
+}

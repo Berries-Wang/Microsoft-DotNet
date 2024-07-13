@@ -1,0 +1,20 @@
+{
+  "tools": {
+    "dotnet": "8.0.101",
+    "runtimes": {
+      "dotnet": [
+        "$(VSRedistCommonNetCoreSharedFrameworkx6480PackageVersion)"
+      ],
+      "aspnetcore": [
+        "$(MicrosoftAspNetCoreComponentsSdkAnalyzersPackageVersion)"
+      ]
+    },
+    "vs-opt": {
+      "version": "16.8"
+    }
+  },
+  "msbuild-sdks": {
+    "Microsoft.DotNet.Arcade.Sdk": "8.0.0-beta.24266.3",
+    "Microsoft.DotNet.Helix.Sdk": "8.0.0-beta.24266.3"
+  }
+}
