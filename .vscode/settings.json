@@ -1,4 +1,8 @@
 {
     "csharp.debug.console": "integratedTerminal",
     "csharp.debug.justMyCode": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications""[csharp]": {
+        "editor.formatOnSaveMode": "file"
+    }
 }
