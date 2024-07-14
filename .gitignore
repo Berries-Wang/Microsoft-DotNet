@@ -10,3 +10,5 @@
 /test/Microsoft.DotNet.SourceBuild.SmokeTests/TestResults
 000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet
 000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts
+002.Learn_Programs/**
+!002.Learn_Programs/README.md

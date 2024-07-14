@@ -1,0 +1,28 @@
+// 帮助手册: https://go.microsoft.com/fwlink/?linkid=830387
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "coreclr",
+            "name": "Debug-C#-Demo",
+            "request": "launch",
+            "justMyCode": false,
+            "cwd": "${workspaceFolder}/002.Learn_Programs/000.CSharp_Grammar_01",
+            "console": "integratedTerminal",
+            "program": "${workspaceFolder}/002.Learn_Programs/000.CSharp_Grammar_01/bin/Debug/net8.0/CSharp_Grammar_01.dll"
+        },
+        {
+            "type": "coreclr",
+            "name": "Debug-C#-DotNet",
+            "request": "launch",
+            "justMyCode": false,
+            "cwd": "${workspaceFolder}/002.Learn_Programs/000.CSharp_Grammar_01",
+            "console": "integratedTerminal",
+            "program": "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/x64/Release/dotnet-sdk-wei/dotnet",
+            "args": [
+                "run",
+                "--debug"
+            ],
+        }
+    ]
+}

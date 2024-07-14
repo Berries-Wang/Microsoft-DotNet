@@ -1,0 +1,4 @@
+{
+    "csharp.debug.console": "integratedTerminal",
+    "csharp.debug.justMyCode": false,
+}
