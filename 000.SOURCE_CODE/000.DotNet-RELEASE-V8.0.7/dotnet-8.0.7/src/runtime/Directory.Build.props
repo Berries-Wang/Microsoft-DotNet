@@ -468,4 +468,13 @@
     <CustomBeforeNoTargets>$(RepositoryEngineeringDir)NoTargetsSdk.BeforeTargets.targets</CustomBeforeNoTargets>
     <CustomAfterTraversalTargets>$(RepositoryEngineeringDir)TraversalSdk.AfterTargets.targets</CustomAfterTraversalTargets>
   </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;NU5129</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;NU5129</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;NU5129</NoWarn>
+  </PropertyGroup>
 </Project>

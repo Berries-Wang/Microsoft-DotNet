@@ -1,6 +1,6 @@
 {
   "tools": {
-    "dotnet": "8.0.100-preview.1.23115.2",
+    "dotnet": "8.0.106",
     "runtimes": {
       "dotnet": [
         "$(MicrosoftNETCoreApp60Version)",
