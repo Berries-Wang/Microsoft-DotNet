@@ -1,8 +1,9 @@
 {
     "csharp.debug.console": "integratedTerminal",
     "csharp.debug.justMyCode": false,
-    "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modifications""[csharp]": {
-        "editor.formatOnSaveMode": "file"
-    }
+    "csharp.debug.sourceFileMap":{
+        "build-path":"/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/sdk",
+    },
+    "csharp.debug.symbolOptions.searchPaths":["/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/x64/Debug/sdk-symbols"]
+    ,"dotnet.dotnetPath": "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/x64/Debug/wei-sdk",
 }

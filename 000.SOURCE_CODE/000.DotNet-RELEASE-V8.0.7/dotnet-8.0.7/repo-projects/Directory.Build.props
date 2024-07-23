@@ -142,9 +142,9 @@
     <StandardSourceBuildArgs> $(FlagParameterPrefix)ci</StandardSourceBuildArgs>
     <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)configuration $(Configuration)</StandardSourceBuildArgs>
     <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)restore</StandardSourceBuildArgs>
-    <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)build</StandardSourceBuildArgs>
-    <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)pack</StandardSourceBuildArgs>
-    <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)publish</StandardSourceBuildArgs>
+    <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)build --configuration Debug</StandardSourceBuildArgs>
+    <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)pack  --configuration Debug</StandardSourceBuildArgs>
+    <StandardSourceBuildArgs>$(StandardSourceBuildArgs) $(FlagParameterPrefix)publish  --configuration Debug</StandardSourceBuildArgs>
     <StandardSourceBuildArgs>$(StandardSourceBuildArgs) -bl</StandardSourceBuildArgs>
 
     <StandardSourceBuildArgs>$(StandardSourceBuildArgs) /p:ArcadeBuildFromSource=true</StandardSourceBuildArgs>

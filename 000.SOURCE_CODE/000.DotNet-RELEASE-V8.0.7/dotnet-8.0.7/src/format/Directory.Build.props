@@ -16,4 +16,10 @@
   <PropertyGroup>
     <NoWarn>$(NoWarn);NU5104;NU1603;</NoWarn>
   </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;</NoWarn>
+  </PropertyGroup>
 </Project>

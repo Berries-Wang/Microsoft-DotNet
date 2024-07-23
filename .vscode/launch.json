@@ -18,11 +18,11 @@
             "justMyCode": false,
             "cwd": "${workspaceFolder}/002.Learn_Programs/000.CSharp_Grammar_01",
             "console": "integratedTerminal",
-            "program": "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/x64/Release/dotnet-sdk-wei/dotnet",
+            "program": "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/x64/Debug/wei-sdk/dotnet",
             "args": [
                 "run",
                 "--debug"
-            ],
+            ]
         }
     ]
 }

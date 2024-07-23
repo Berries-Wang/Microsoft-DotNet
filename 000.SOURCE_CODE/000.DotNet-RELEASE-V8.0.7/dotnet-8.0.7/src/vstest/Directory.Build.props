@@ -100,4 +100,10 @@
   <PropertyGroup>
     <NoWarn>$(NoWarn);NU5104;NU1603;IDE0090</NoWarn>
   </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;IDE0090</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWarn>$(NoWarn);NU5104;NU1603;IDE0090</NoWarn>
+  </PropertyGroup>
 </Project>

@@ -262,6 +262,6 @@ else
   "$CLI_ROOT/dotnet" msbuild "$SCRIPT_ROOT/eng/tools/init-build.proj" -bl:"$SCRIPT_ROOT/artifacts/log/Debug/BuildXPlatTasks_$LogDateStamp.binlog" -flp:LogFile="$SCRIPT_ROOT/artifacts/logs/BuildXPlatTasks_$LogDateStamp.log" -t:PrepareOfflineLocalTools ${MSBUILD_ARGUMENTS[@]} "$@"
   # kill off the MSBuild server so that on future invocations we pick up our custom SDK Resolver
   "$CLI_ROOT/dotnet" build-server shutdown
-
-  "$CLI_ROOT/dotnet" msbuild "$SCRIPT_ROOT/build.proj" -bl:"$SCRIPT_ROOT/artifacts/log/Debug/Build_$LogDateStamp.binlog" -flp:"LogFile=$SCRIPT_ROOT/artifacts/logs/Build_$LogDateStamp.log" ${MSBUILD_ARGUMENTS[@]} "$@"
+   echo "---> SCRIPT_ROOT: ${SCRIPT_ROOT}"
+  "$CLI_ROOT/dotnet" msbuild "$SCRIPT_ROOT/build.proj"  -bl:"$SCRIPT_ROOT/artifacts/log/Debug/Build_$LogDateStamp.binlog" -flp:"LogFile=$SCRIPT_ROOT/artifacts/logs/Build_$LogDateStamp.log" ${MSBUILD_ARGUMENTS[@]} "$@"
 fi
