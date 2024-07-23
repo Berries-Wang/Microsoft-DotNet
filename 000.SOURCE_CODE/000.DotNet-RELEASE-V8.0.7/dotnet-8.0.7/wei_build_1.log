@@ -1,0 +1,1056 @@
+Found bootstrap SDK 8.0.106, bootstrap Arcade 8.0.0-beta.24266.3, bootstrap SourceLink 8.0.0-beta.23615.1
+Shutting down MSBuild server...
+Shutting down VB/C# compiler server...
+VB/C# compiler server shut down successfully.
+MSBuild server shut down successfully.
+MSBuild version 17.8.5+b5265ef37 for .NET
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.NET.Sdk. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.NET.SDK.WorkloadAutoImportPropsLocator. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.NET.SDK.WorkloadManifestTargetsLocator. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/eng/tools/init-build.proj(6,3): warning MSB4011: "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/git-info/AllRepoVersions.props" cannot be imported again. It was already imported at "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/Directory.Build.props (205,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  Microsoft.DotNet.SourceBuild.Tasks.XPlat -> /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/eng/tools/tasks/Microsoft.DotNet.SourceBuild.Tasks.XPlat/bin/Debug/Microsoft.DotNet.SourceBuild.Tasks.XPlat.dll
+  SourceBuild.MSBuildSdkResolver -> /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/x64/Debug/SourceBuild.MSBuildSdkResolver.dll
+  Adding resolver to SDK: SourceBuild.MSBuildSdkResolver -> /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/sdk/8.0.106/SdkResolvers/SourceBuild.MSBuildSdkResolver/SourceBuild.MSBuildSdkResolver.dll
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/Microsoft.DotNet.Arcade.Sdk.8.0.0-beta.24266.3.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3/'...
+Shutting down MSBuild server...
+Shutting down VB/C# compiler server...
+VB/C# compiler server shut down successfully.
+MSBuild server shut down successfully.
+MSBuild version 17.8.5+b5265ef37 for .NET
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.NET.Sdk. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.DotNet.Arcade.Sdk. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+[SourceBuiltSdkResolver] Overriding Microsoft.DotNet.Arcade.Sdk with 'ARCADE'
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.NET.SDK.WorkloadAutoImportPropsLocator. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+[SourceBuiltSdkResolver] Looking for SDK Microsoft.NET.SDK.WorkloadManifestTargetsLocator. Detected config(s) in env: 'ARCADE' for 'Microsoft.DotNet.Arcade.Sdk/8.0.0-beta.24266.3' at '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored//ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3'
+/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/eng/tools/init-build.proj(6,3): warning MSB4011: "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/git-info/AllRepoVersions.props" cannot be imported again. It was already imported at "/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/Directory.Build.props (205,3)". This is most likely a build authoring error. This subsequent import will be ignored. 
+  Building dependencies [source-build-reference-packages;arcade;command-line-api;sourcelink;diagnostics;emsdk;xliff-tasks;cecil;symreader;source-build-externals;runtime;roslyn;xdt;msbuild;roslyn-analyzers;aspnetcore;razor;deployment-tools;format;nuget-client;templating;test-templates;fsharp;vstest;sdk;aspire;installer;package-source-build] needed by 'dotnet'.
+  source-build-reference-packages using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-reference-packages.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-reference-packages.Previous.props
+  DirSize Before Building source-build-reference-packages
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  172G  697G  20% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:05:59.18] Building 'source-build-reference-packages'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/source-build-reference-packages/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-reference-packages.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime= /p:MicrosoftNetCoreIlasmPackageRuntimeId=linux-x64 /p:LocalNuGetPackageCacheDirectory=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/source-build-reference-package-cache
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/source-build-reference-packages.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-reference-packages.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=alpha.1
+      PackageVersionStamp=alpha.1
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20240507.2
+      BUILD_BUILDNUMBER=20240507.2
+      GitCommitCount=
+      GitCommitHash=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      GitInfoCommitHash=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      SourceRevisionId=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      RepositoryCommit=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      COMMIT_SHA=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      GIT_COMMIT=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/source-build-reference-packages/
+      LatestCommit=6ed73280a6d70f7e7ac39c86f2abe8c10983f0bb
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3/
+  [08:15:55.64] Building 'source-build-reference-packages'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/source-build-reference-packages/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.source-build-reference-packages.8.0.0-alpha.1.24257.2.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.source-build-reference-packages.8.0.0-alpha.1.24257.2/'...
+  New NuGet package(s) after building source-build-reference-packages:
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+  DirSize After Building source-build-reference-packages
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo source-build-reference-packages
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  175G  694G  21% /
+  arcade using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.arcade.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.arcade.Previous.props
+  DirSize Before Building arcade
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  175G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  MSBuild server shut down successfully.
+  VB/C# compiler server shut down successfully.
+  [08:17:07.29] Building 'arcade'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/arcade/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.arcade.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime= --warnAsError false
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/arcade.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.arcade.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=beta
+      PackageVersionStamp=beta
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20240516.3
+      BUILD_BUILDNUMBER=20240516.3
+      GitCommitCount=
+      GitCommitHash=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      GitInfoCommitHash=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      SourceRevisionId=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      RepositoryCommit=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      COMMIT_SHA=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      GIT_COMMIT=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/arcade/
+      UsingToolMicrosoftNetCompilers=false
+      useInstalledDotNetCli=false
+      LatestCommit=e6f70c7dd528f05cd28cec2a179d58c22e91d9ac
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/ArcadeBootstrapPackage/microsoft.dotnet.arcade.sdk/8.0.0-beta.24266.3/
+  [08:17:55.79] Building 'arcade'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/arcade/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.arcade.8.0.0-beta.24266.3.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.arcade.8.0.0-beta.24266.3/'...
+  New NuGet package(s) after building arcade:
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+  DirSize After Building arcade
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo arcade
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/Microsoft.DotNet.Arcade.Sdk.8.0.0-beta.24266.3.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/'...
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/Microsoft.DotNet.Build.Tasks.Packaging.8.0.0-beta.24266.3.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Build.Tasks.Packaging/'...
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/Microsoft.DotNet.Build.Tasks.TargetFramework.8.0.0-beta.24266.3.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Build.Tasks.TargetFramework/'...
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/Microsoft.DotNet.SharedFramework.Sdk.8.0.0-beta.24266.3.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.SharedFramework.Sdk/'...
+  Building dependencies [arcade] needed by 'command-line-api'.
+  command-line-api using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.command-line-api.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.command-line-api.Previous.props
+  DirSize Before Building command-line-api
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:18:09.59] Building 'command-line-api'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/command-line-api/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.command-line-api.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime= --warnAsError false --nodereuse false
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/command-line-api.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.command-line-api.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=
+      PackageVersionStamp=
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20230706.1
+      BUILD_BUILDNUMBER=20230706.1
+      GitCommitCount=
+      GitCommitHash=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      GitInfoCommitHash=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      SourceRevisionId=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      RepositoryCommit=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      COMMIT_SHA=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      GIT_COMMIT=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/command-line-api/
+      LatestCommit=02fe27cd6a9b001c8feb7938e6ef4b3799745759
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:18:27.51] Building 'command-line-api'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/command-line-api/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.command-line-api.0.1.435601.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.command-line-api.0.1.435601/'...
+  New NuGet package(s) after building command-line-api:
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building command-line-api
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo command-line-api
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Building dependencies [command-line-api] needed by 'sourcelink'.
+  sourcelink using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.sourcelink.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.sourcelink.Previous.props
+  DirSize Before Building sourcelink
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:18:30.46] Building 'sourcelink'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/sourcelink/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.sourcelink.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime=
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/sourcelink.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.sourcelink.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=beta
+      PackageVersionStamp=beta
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20231215.1
+      BUILD_BUILDNUMBER=20231215.1
+      GitCommitCount=
+      GitCommitHash=94eaac3385cafff41094454966e1af1d1cf60f00
+      GitInfoCommitHash=94eaac3385cafff41094454966e1af1d1cf60f00
+      SourceRevisionId=94eaac3385cafff41094454966e1af1d1cf60f00
+      RepositoryCommit=94eaac3385cafff41094454966e1af1d1cf60f00
+      COMMIT_SHA=94eaac3385cafff41094454966e1af1d1cf60f00
+      GIT_COMMIT=94eaac3385cafff41094454966e1af1d1cf60f00
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/sourcelink/
+      LatestCommit=94eaac3385cafff41094454966e1af1d1cf60f00
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:18:52.47] Building 'sourcelink'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/sourcelink/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.sourcelink.8.0.0-beta.23615.1.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.sourcelink.8.0.0-beta.23615.1/'...
+  New NuGet package(s) after building sourcelink:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building sourcelink
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo sourcelink
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  diagnostics using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.diagnostics.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.diagnostics.Previous.props
+  DirSize Before Building diagnostics
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:18:59.04] Building 'diagnostics'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/diagnostics/eng/common/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.diagnostics.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime=
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/diagnostics.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.diagnostics.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=preview
+      PackageVersionStamp=preview
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20230411.1
+      BUILD_BUILDNUMBER=20230411.1
+      GitCommitCount=
+      GitCommitHash=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      GitInfoCommitHash=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      SourceRevisionId=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      RepositoryCommit=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      COMMIT_SHA=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      GIT_COMMIT=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/diagnostics/
+      LatestCommit=5ce78f66d89ea529e459abddb129ab36cb5bd936
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:19:08.37] Building 'diagnostics'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/diagnostics/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.diagnostics.7.0.0-preview.23211.1.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.diagnostics.7.0.0-preview.23211.1/'...
+  New NuGet package(s) after building diagnostics:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.Diagnostics.NETCore.Client 0.2.0-preview.23211.1
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.diagnostics 7.0.0-preview.23211.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building diagnostics
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo diagnostics
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  emsdk using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.emsdk.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.emsdk.Previous.props
+  DirSize Before Building emsdk
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:19:10.14] Building 'emsdk'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/emsdk/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.emsdk.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime= /p:PackageRid=ubuntu.20.04-x64 /p:AssetManifestOS=ubuntu.20.04 /p:PlatformName=-x64 /p:ForceBuildManifestOnly=true
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/emsdk.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.emsdk.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=servicing
+      PackageVersionStamp=servicing
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20240613.1
+      BUILD_BUILDNUMBER=20240613.1
+      GitCommitCount=
+      GitCommitHash=a64772f521c578bc9925578b1384d3a08a02d31d
+      GitInfoCommitHash=a64772f521c578bc9925578b1384d3a08a02d31d
+      SourceRevisionId=a64772f521c578bc9925578b1384d3a08a02d31d
+      RepositoryCommit=a64772f521c578bc9925578b1384d3a08a02d31d
+      COMMIT_SHA=a64772f521c578bc9925578b1384d3a08a02d31d
+      GIT_COMMIT=a64772f521c578bc9925578b1384d3a08a02d31d
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/emsdk/
+      LatestCommit=a64772f521c578bc9925578b1384d3a08a02d31d
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:19:15.40] Building 'emsdk'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/emsdk/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.emsdk.8.0.7-servicing.24313.1.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.emsdk.8.0.7-servicing.24313.1/'...
+  New NuGet package(s) after building emsdk:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.Diagnostics.NETCore.Client 0.2.0-preview.23211.1
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100.Transport 8.0.7-servicing.24313.1
+    -> Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100 8.0.7
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.diagnostics 7.0.0-preview.23211.1
+    -> Microsoft.SourceBuild.Intermediate.emsdk 8.0.7-servicing.24313.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building emsdk
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo emsdk
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  xliff-tasks using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.xliff-tasks.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.xliff-tasks.Previous.props
+  DirSize Before Building xliff-tasks
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:19:16.47] Building 'xliff-tasks'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/xliff-tasks/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.xliff-tasks.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime=
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/xliff-tasks.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.xliff-tasks.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=beta
+      PackageVersionStamp=beta
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20230925.1
+      BUILD_BUILDNUMBER=20230925.1
+      GitCommitCount=
+      GitCommitHash=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      GitInfoCommitHash=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      SourceRevisionId=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      RepositoryCommit=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      COMMIT_SHA=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      GIT_COMMIT=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      RepositoryType=Git
+      DeterministicSourcePaths=false
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/xliff-tasks/
+      LatestCommit=73f0850939d96131c28cf6ea6ee5aacb4da0083a
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:19:25.16] Building 'xliff-tasks'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/xliff-tasks/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.xliff-tasks.1.0.0-beta.23475.1.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.xliff-tasks.1.0.0-beta.23475.1/'...
+  New NuGet package(s) after building xliff-tasks:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.Diagnostics.NETCore.Client 0.2.0-preview.23211.1
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.XliffTasks 1.0.0-beta.23475.1
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100.Transport 8.0.7-servicing.24313.1
+    -> Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100 8.0.7
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.diagnostics 7.0.0-preview.23211.1
+    -> Microsoft.SourceBuild.Intermediate.emsdk 8.0.7-servicing.24313.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceBuild.Intermediate.xliff-tasks 1.0.0-beta.23475.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building xliff-tasks
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo xliff-tasks
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Building dependencies [arcade] needed by 'cecil'.
+  cecil using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.cecil.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.cecil.Previous.props
+  DirSize Before Building cecil
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:19:26.66] Building 'cecil'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/cecil/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.cecil.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime=
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/cecil.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.cecil.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=alpha
+      PackageVersionStamp=alpha
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20231009.2
+      BUILD_BUILDNUMBER=20231009.2
+      GitCommitCount=
+      GitCommitHash=45dd3a73dd5b64b010c4251303b3664bb30df029
+      GitInfoCommitHash=45dd3a73dd5b64b010c4251303b3664bb30df029
+      SourceRevisionId=45dd3a73dd5b64b010c4251303b3664bb30df029
+      RepositoryCommit=45dd3a73dd5b64b010c4251303b3664bb30df029
+      COMMIT_SHA=45dd3a73dd5b64b010c4251303b3664bb30df029
+      GIT_COMMIT=45dd3a73dd5b64b010c4251303b3664bb30df029
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/cecil/
+      LatestCommit=45dd3a73dd5b64b010c4251303b3664bb30df029
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:19:40.44] Building 'cecil'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/cecil/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.cecil.0.11.4-alpha.23509.2.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.cecil.0.11.4-alpha.23509.2/'...
+  New NuGet package(s) after building cecil:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.Diagnostics.NETCore.Client 0.2.0-preview.23211.1
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Cecil 0.11.4-alpha.23509.2
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.XliffTasks 1.0.0-beta.23475.1
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100.Transport 8.0.7-servicing.24313.1
+    -> Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100 8.0.7
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.cecil 0.11.4-alpha.23509.2
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.diagnostics 7.0.0-preview.23211.1
+    -> Microsoft.SourceBuild.Intermediate.emsdk 8.0.7-servicing.24313.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceBuild.Intermediate.xliff-tasks 1.0.0-beta.23475.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building cecil
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo cecil
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  symreader using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.symreader.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.symreader.Previous.props
+  DirSize Before Building symreader
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:19:41.91] Building 'symreader'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/symreader/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.symreader.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime=
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/symreader.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.symreader.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=beta
+      PackageVersionStamp=beta
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20230503.1
+      BUILD_BUILDNUMBER=20230503.1
+      GitCommitCount=
+      GitCommitHash=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      GitInfoCommitHash=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      SourceRevisionId=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      RepositoryCommit=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      COMMIT_SHA=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      GIT_COMMIT=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/symreader/
+      LatestCommit=2c8079e2e8e78c0cd11ac75a32014756136ecdb9
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:19:50.23] Building 'symreader'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/symreader/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.symreader.2.1.0-beta.23253.1.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.symreader.2.1.0-beta.23253.1/'...
+  New NuGet package(s) after building symreader:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.Diagnostics.NETCore.Client 0.2.0-preview.23211.1
+    -> Microsoft.DiaSymReader 2.1.0-beta.23253.1
+    -> Microsoft.DiaSymReader 2.1.0-beta.final
+    -> Microsoft.DiaSymReader 2.1.0
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Cecil 0.11.4-alpha.23509.2
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.XliffTasks 1.0.0-beta.23475.1
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100.Transport 8.0.7-servicing.24313.1
+    -> Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100 8.0.7
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.cecil 0.11.4-alpha.23509.2
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.diagnostics 7.0.0-preview.23211.1
+    -> Microsoft.SourceBuild.Intermediate.emsdk 8.0.7-servicing.24313.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceBuild.Intermediate.symreader 2.1.0-beta.23253.1
+    -> Microsoft.SourceBuild.Intermediate.xliff-tasks 1.0.0-beta.23475.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+  DirSize After Building symreader
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo symreader
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  source-build-externals using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-externals.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-externals.Previous.props
+  DirSize Before Building source-build-externals
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:19:51.52] Building 'source-build-externals'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/source-build-externals/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-externals.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime=
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/source-build-externals.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.source-build-externals.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=alpha.1
+      PackageVersionStamp=alpha.1
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20240519.1
+      BUILD_BUILDNUMBER=20240519.1
+      GitCommitCount=
+      GitCommitHash=4f2151df120194f0268944f1b723c14820738fc8
+      GitInfoCommitHash=4f2151df120194f0268944f1b723c14820738fc8
+      SourceRevisionId=4f2151df120194f0268944f1b723c14820738fc8
+      RepositoryCommit=4f2151df120194f0268944f1b723c14820738fc8
+      COMMIT_SHA=4f2151df120194f0268944f1b723c14820738fc8
+      GIT_COMMIT=4f2151df120194f0268944f1b723c14820738fc8
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/source-build-externals/
+      LatestCommit=4f2151df120194f0268944f1b723c14820738fc8
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+  [08:21:27.05] Building 'source-build-externals'...done
+  Decompressing '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/source-build-externals/artifacts/packages/Debug/NonShipping/Microsoft.SourceBuild.Intermediate.source-build-externals.8.0.0-alpha.1.24269.1.nupkg' into '/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/extractArtifacts/Microsoft.SourceBuild.Intermediate.source-build-externals.8.0.0-alpha.1.24269.1/'...
+  New NuGet package(s) after building source-build-externals:
+    -> dotnet-sourcelink 8.0.0-beta.23615.1
+    -> FSharp.NET.Sdk 1.0.4-bundled-0100
+    -> Humanizer.Core 2.14.1
+    -> Microsoft.ApplicationInsights 2.21.0
+    -> Microsoft.Arcade.Common 8.0.0-beta.24266.3
+    -> Microsoft.Build.Locator 1.6.10
+    -> Microsoft.Build.StandardCI 8.0.0-beta.23615.1
+    -> Microsoft.Build.Tasks.Git 8.0.0-beta.23615.1
+    -> Microsoft.Css.Parser 1.0.0-20230414.1
+    -> Microsoft.Diagnostics.NETCore.Client 0.2.0-preview.23211.1
+    -> Microsoft.DiaSymReader 2.1.0-beta.23253.1
+    -> Microsoft.DiaSymReader 2.1.0-beta.final
+    -> Microsoft.DiaSymReader 2.1.0
+    -> Microsoft.DotNet.Arcade.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.ArcadeLogging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Archives 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Installers 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Packaging 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.TargetFramework 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Templating 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Build.Tasks.Workloads 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Cecil 0.11.4-alpha.23509.2
+    -> Microsoft.DotNet.CMake.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.CodeAnalysis 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.GenFacades 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.NuGetRepack.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.PackageTesting 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SharedFramework.Sdk 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SignTool 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.SourceBuild.Tasks 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.Tar 8.0.0-beta.24266.3
+    -> Microsoft.DotNet.XliffTasks 1.0.0-beta.23475.1
+    -> Microsoft.IdentityModel.Abstractions 7.1.2
+    -> Microsoft.IdentityModel.JsonWebTokens 7.1.2
+    -> Microsoft.IdentityModel.Logging 7.1.2
+    -> Microsoft.IdentityModel.Tokens 7.1.2
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.Current.Manifest-8.0.100.Transport 8.0.7-servicing.24313.1
+    -> Microsoft.NET.Workload.Emscripten.net6.Manifest-8.0.100 8.0.7
+    -> Microsoft.NET.Workload.Emscripten.net7.Manifest-8.0.100 8.0.7
+    -> Microsoft.SourceBuild.Intermediate.arcade 8.0.0-beta.24266.3
+    -> Microsoft.SourceBuild.Intermediate.cecil 0.11.4-alpha.23509.2
+    -> Microsoft.SourceBuild.Intermediate.command-line-api 0.1.435601
+    -> Microsoft.SourceBuild.Intermediate.diagnostics 7.0.0-preview.23211.1
+    -> Microsoft.SourceBuild.Intermediate.emsdk 8.0.7-servicing.24313.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-externals 8.0.0-alpha.1.24269.1
+    -> Microsoft.SourceBuild.Intermediate.source-build-reference-packages 8.0.0-alpha.1.24257.2
+    -> Microsoft.SourceBuild.Intermediate.sourcelink 8.0.0-beta.23615.1
+    -> Microsoft.SourceBuild.Intermediate.symreader 2.1.0-beta.23253.1
+    -> Microsoft.SourceBuild.Intermediate.xliff-tasks 1.0.0-beta.23475.1
+    -> Microsoft.SourceLink.AzureDevOpsServer.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.AzureRepos.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Bitbucket.Git 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Common 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitea 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Gitee 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitHub 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitLab 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.GitWeb 8.0.0-beta.23615.1
+    -> Microsoft.SourceLink.Tools 8.0.0-beta.23615.1
+    -> Newtonsoft.Json 13.0.3
+    -> System.CommandLine 2.0.0-beta4.23356.1
+    -> System.CommandLine.DragonFruit 0.4.0-alpha.23356.1
+    -> System.CommandLine.NamingConventionBinder 2.0.0-beta4.23356.1
+    -> System.CommandLine.Rendering 0.4.0-alpha.23356.1
+    -> System.IdentityModel.Tokens.Jwt 7.1.2
+    -> Valleysoft.DockerCredsProvider 2.2.0
+    -> Valleysoft.DockerCredsProvider 2.2.1
+    -> xunit.abstractions 2.0.3
+    -> xunit.core 2.4.2
+    -> xunit.extensibility.core 2.4.2
+    -> xunit.extensibility.execution 2.4.2
+    -> xunit.runner.utility 2.4.2
+  DirSize After Building source-build-externals
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  DirSize After CleanupRepo source-build-externals
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Building dependencies [arcade;cecil;symreader;source-build-externals] needed by 'runtime'.
+  runtime using package version properties saved at /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.runtime.Current.props and /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.runtime.Previous.props
+  DirSize Before Building runtime
+  Filesystem      Size  Used Avail Use% Mounted on
+  /dev/sda5       916G  176G  694G  21% /
+  Shutting down MSBuild server...
+  Shutting down VB/C# compiler server...
+  VB/C# compiler server shut down successfully.
+  MSBuild server shut down successfully.
+  [08:21:39.32] Building 'runtime'
+  Running command:
+    /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/runtime/build.sh  --ci --configuration Debug --restore --build --pack --publish -bl /p:ArcadeBuildFromSource=true /p:CopyWipIntoInnerSourceBuildRepo=true /p:DotNetBuildOffline=true /p:CopySrcInsteadOfClone=true /p:DotNetPackageVersionPropsPath="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.runtime.props" /p:AdditionalSourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/blob-feed/packages/" /p:ReferencePackageNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/reference/" /p:PreviouslySourceBuiltNupkgCacheDir="/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/previously-source-built/" /p:SourceBuildUseMonoRuntime= /p:TargetRid=ubuntu.20.04-x64 /p:RuntimeOS=linux /p:BaseOS=linux /p:SourceBuildNonPortable=true /p:UsingToolMicrosoftNetCompilers=false
+    Log: /home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/logs/runtime.log
+    With Environment Variables:
+      DotNetBuildFromSource=true
+      DotNetBuildFromSourceFlavor=Product
+      DotNetPackageVersionPropsPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/obj/x64/Debug/PackageVersions.runtime.props
+      DotNetRestorePackagesPath=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/prereqs/packages/restored/
+      DotNetBuildOffline=true
+      AddDotnetfeedProjectSource=false
+      DOTNET_INSTALL_DIR=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      DOTNET_HOST_PATH=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/dotnet
+      _InitializeDotNetCli=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _DotNetInstallDir=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/.dotnet/
+      _InitializeToolset=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/tools/Build.proj
+      _OverrideArcadeInitializeBuildToolFramework=net8.0
+      DotNetUseShippingVersions=true
+      PreReleaseVersionLabel=servicing
+      PackageVersionStamp=servicing
+      ContinuousIntegrationBuild=true
+      MSBUILDDISABLENODEREUSE=1
+      OfficialBuildId=20240613.11
+      BUILD_BUILDNUMBER=20240613.11
+      GitCommitCount=
+      GitCommitHash=2aade6beb02ea367fd97c4070a4198802fe61c03
+      GitInfoCommitHash=2aade6beb02ea367fd97c4070a4198802fe61c03
+      SourceRevisionId=2aade6beb02ea367fd97c4070a4198802fe61c03
+      RepositoryCommit=2aade6beb02ea367fd97c4070a4198802fe61c03
+      COMMIT_SHA=2aade6beb02ea367fd97c4070a4198802fe61c03
+      GIT_COMMIT=2aade6beb02ea367fd97c4070a4198802fe61c03
+      RepositoryType=Git
+      DeterministicSourcePaths=true
+      SourceRoot=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/src/runtime/
+      BuildInParallel=false
+      LatestCommit=2aade6beb02ea367fd97c4070a4198802fe61c03
+      SOURCE_BUILT_SDK_ID_ARCADE=Microsoft.DotNet.Arcade.Sdk
+      SOURCE_BUILT_SDK_ID_ARCADE_PACKAGING=Microsoft.DotNet.Build.Tasks.Packaging
+      SOURCE_BUILT_SDK_ID_ARCADE_TGT_FX=Microsoft.DotNet.Build.Tasks.TargetFramework
+      SOURCE_BUILT_SDK_ID_ARCADE_SHARED_FX_SDK=Microsoft.DotNet.SharedFramework.Sdk
+      SOURCE_BUILT_SDK_VERSION_ARCADE=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_VERSION_ARCADE_PACKAGING=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_VERSION_ARCADE_TGT_FX=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_VERSION_ARCADE_SHARED_FX_SDK=8.0.0-beta.24266.3
+      SOURCE_BUILT_SDK_DIR_ARCADE=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Arcade.Sdk/
+      SOURCE_BUILT_SDK_DIR_ARCADE_PACKAGING=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Build.Tasks.Packaging/
+      SOURCE_BUILT_SDK_DIR_ARCADE_TGT_FX=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.Build.Tasks.TargetFramework/
+      SOURCE_BUILT_SDK_DIR_ARCADE_SHARED_FX_SDK=/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/artifacts/source-built-sdks/Microsoft.DotNet.SharedFramework.Sdk/
+Attempting to cancel the build...
+Attempting to cancel the build...
+Attempting to cancel the build...
+/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/repo-projects/Directory.Build.targets(265,5): warning MSB5021: Terminating the task executable "sh" and its child processes because the build was canceled. [/home/wei/WorkSpace/Open_Source/Microsoft-DotNet/000.SOURCE_CODE/000.DotNet-RELEASE-V8.0.7/dotnet-8.0.7/repo-projects/runtime.proj]

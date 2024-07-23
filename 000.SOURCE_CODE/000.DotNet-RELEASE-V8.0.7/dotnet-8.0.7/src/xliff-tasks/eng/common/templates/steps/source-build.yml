@@ -83,7 +83,7 @@ steps:
       assetManifestFileName=SourceBuild_${{ parameters.platform.name }}.xml
     fi
 
-    ${{ coalesce(parameters.platform.buildScript, './build.sh') }} --ci \
+    ${{ coalesce(parameters.platform.buildScript, './build.sh') }} --ci --sourceBuild\
       --configuration $buildConfig \
       --restore --build --pack $publishArgs -bl \
       $officialBuildArgs \
