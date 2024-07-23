@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>$(CurrentTargetFramework)</TargetFramework>
-    <PublishRelease>true</PublishRelease>
-    <PackRelease>true</PackRelease>
+    <PublishRelease>false</PublishRelease>
+    <PackRelease>false</PackRelease>
   </PropertyGroup>
 </Project>

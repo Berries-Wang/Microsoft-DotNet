@@ -30,7 +30,7 @@ Copyright (c) .NET Foundation. All rights reserved.
   So, we must set PackRelease here. Even though this occurs before project import, the project import can override PackRelease later, before the pre-evaluation, so this is fine.-->
   <PropertyGroup Condition="'$(PackRelease)' == ''">
     <!-- Do not depend on this value being correct until after project evaluation.-->
-    <PackRelease>true</PackRelease>
+    <PackRelease>false</PackRelease>
   </PropertyGroup>
 
   <!-- User-facing configuration-agnostic defaults -->

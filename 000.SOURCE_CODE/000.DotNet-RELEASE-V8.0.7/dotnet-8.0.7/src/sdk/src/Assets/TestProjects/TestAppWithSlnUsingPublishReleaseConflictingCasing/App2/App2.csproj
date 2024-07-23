@@ -5,7 +5,7 @@
     <TargetFramework>$(CurrentTargetFramework)</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <PublishRelease>TRUE</PublishRelease>
+    <PublishRelease>FALSE</PublishRelease>
   </PropertyGroup>
 
 </Project>
